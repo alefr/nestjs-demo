@@ -1,0 +1,9 @@
+.idea
+.scannerwork
+.sonar
+coverage
+node_modules
+gitlab-ci.yml
+Dockerfile
+README.md
+sonar-project.properties
