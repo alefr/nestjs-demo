@@ -1,10 +1,6 @@
-# MovieApi - Java-SpringBoot
-
-[![pipeline status](https://gitlab.com/tests19/movieapinodejsnestjs/badges/master/pipeline.svg)](https://gitlab.com/tests19/movieapinodejsnestjs/-/commits/master)
-[![coverage report](https://gitlab.com/tests19/movieapinodejsnestjs/badges/master/coverage.svg)](https://gitlab.com/tests19/movieapinodejsnestjs/-/commits/master)
+# MovieApi - NestJS
 
 Project for comparing different technology stacks.
-For more information see: [MovieApi](https://gitlab.com/tests19/movieapi) 
 
 ## Tech stack
 * NodeJS
